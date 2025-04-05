@@ -1,7 +1,6 @@
-# My Resume
+Tran Van Phap  
+Trường đại học Sài Gòn
+TVPhap.github.io
 
-### Summary
 
-My resume I made using plain HTML5 & CSS.
-https://rjbasitali.github.io/
 
